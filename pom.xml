@@ -43,6 +43,7 @@
 	</build>
 
 	<scm>
+		<developerConnection>scm:git:https://github.com/charleshoong97/spring-pet-clinic.git</developerConnection>
 		<connection>scm:git:https://github.com/charleshoong97/spring-pet-clinic.git</connection>
 		<url>https://github.com/charleshoong97/spring-pet-clinic.git</url>
 		<tag>spring-pet-clinic-0.0.1</tag>
