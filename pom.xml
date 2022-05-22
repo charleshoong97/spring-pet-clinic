@@ -42,7 +42,7 @@
 		</plugins>
 	</build>
 	
-	<scm><developerConnection>scm:git:git@github.com:charleshoong97/spring-pet-clinic.git</developerConnection>  <tag>spring-pet-clinic-0.0.1</tag>
+	<scm><developerConnection>scm:git:https://github.com/charleshoong97/spring-pet-clinic.git</developerConnection>  <tag>spring-pet-clinic-0.0.1</tag>
   </scm>
 
 	<modules>
