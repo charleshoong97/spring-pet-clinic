@@ -9,7 +9,7 @@
 	</parent>
 	<groupId>learning.charles</groupId>
 	<artifactId>spring-pet-clinic</artifactId>
-	<version>0.0.3-SNAPSHOT</version>
+	<version>0.0.3</version>
 	<name>spring-pet-clinic</name>
 	<packaging>pom</packaging>
 	<description>Spring Boot Pet Clinic</description>
@@ -46,7 +46,7 @@
 	<scm>
 		<developerConnection>scm:git:https://github.com/charleshoong97/spring-pet-clinic.git</developerConnection>
 		<url>https://github.com/charleshoong97/spring-pet-clinic.git</url>
-	  <tag>spring-pet-clinic-0.0.2</tag>
+	  <tag>spring-pet-clinic-0.0.3</tag>
   </scm>
 
 	<modules>
