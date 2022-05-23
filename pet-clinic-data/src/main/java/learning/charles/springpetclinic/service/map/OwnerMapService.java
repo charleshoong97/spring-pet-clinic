@@ -35,4 +35,6 @@ public class OwnerMapService extends AbstractMapService<Owner, Long> implements 
 		// TODO Auto-generated method stub
 		super.deleteById(id);
 	}
+	
+	
 }
