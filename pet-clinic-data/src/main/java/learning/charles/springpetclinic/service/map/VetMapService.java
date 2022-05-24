@@ -2,10 +2,13 @@ package learning.charles.springpetclinic.service.map;
 
 import java.util.Set;
 
-import learning.charles.springpetclinic.model.Vet;
-import learning.charles.springpetclinic.service.CrudService;
+import org.springframework.stereotype.Service;
 
-public class VetMapService extends AbstractMapService<Vet, Long> implements CrudService<Vet, Long> {
+import learning.charles.springpetclinic.model.Vet;
+import learning.charles.springpetclinic.service.VetService;
+
+@Service
+public class VetMapService extends AbstractMapService<Vet, Long> implements VetService {
 	@Override
 	public Set<Vet> findAll() {
 		// TODO Auto-generated method stub
